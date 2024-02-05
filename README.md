@@ -48,8 +48,8 @@
 
 - 📧 [Email](mailto:elwalid.kadura@gmail.com)
 - 🌐 [Portfolio](https://elwalidkadura.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/walid-kadura/)
-- 📸 [Instagram](https://www.instagram.com/elwalid.kadura/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elwalid-kadura/)
+- 📸 [Instagram](https://www.instagram.com/elwalidkadura/)
 
 🎉 Thank you for stopping by! Don't forget to star ⭐ my repositories if you find them interesting!
 
