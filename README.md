@@ -2,12 +2,12 @@
 
 # Hello! 👋 I'm [El Walid Kadura](https://elwalidkadura.com)
 
-🚀 Full Stack Software Engineer | 🎨 Web App Specialist | 🌌 Exploring new tech horizons
+🚀 Full Stack Software Engineer | 🎨 Web & Mobile App Specialist | 🌌 Exploring new tech horizons
 
 
 ## 🌐 Get to Know Me
 
-- 💼 Specializing in web development, adept at both frontend and backend.
+- 💼 Specializing in web/mobile development, adept at both frontend and backend.
 - 🌍 A passionate traveler, I love exploring the world to discover breathtaking landscapes and immerse myself in diverse cultures.
 - 🎨 Merging art with technology on [edub.designer](https://www.instagram.com/edub.designer/) where I showcase AI-driven artistic work on Instagram.
 - 💡 Providing freelance services via [Kadura Web Services](https://kadurawebservices.com/) - Helping businesses thrive online!
